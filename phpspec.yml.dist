@@ -1,0 +1,5 @@
+suites:
+  pagerfanta_suite:
+    namespace: Port\Pagerfanta
+    psr4_prefix: Port\Pagerfanta
+formatter.name: pretty
