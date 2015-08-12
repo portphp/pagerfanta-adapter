@@ -1,6 +1,11 @@
+> DEPRECATION NOTICE
+>
+> This package has been deprecated. You can use [adrienbrault/pagerfanta-iterator](https://github.com/adrienbrault/pagerfanta-iterator) combined with the IteratorReader provided by the core package.
+
 # Port Pagerfanta adapter
 
-[![Latest Version](https://img.shields.io/github/release/portphp/pagerfanta-adapter.svg?style=flat-square)](https://github.com/portphp/pagerfanta-adapter/releases)
+[![Latest Version](https://img.shields.io
+/github/release/portphp/pagerfanta-adapter.svg?style=flat-square)](https://github.com/portphp/pagerfanta-adapter/releases)
 [![Build Status](https://travis-ci.org/portphp/pagerfanta-adapter.svg)](https://travis-ci.org/portphp/pagerfanta-adapter)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/portphp/pagerfanta-adapter/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/portphp/pagerfanta-adapter/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/portphp/pagerfanta-adapter/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/portphp/pagerfanta-adapter/?branch=master)
